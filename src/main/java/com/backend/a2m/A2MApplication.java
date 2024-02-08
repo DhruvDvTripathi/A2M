@@ -8,6 +8,7 @@ public class A2MApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(A2MApplication.class, args);
+        System.out.println("Welcome to A2M backend");
     }
 
 }
